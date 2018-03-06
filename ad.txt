@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: eR1j23Q9hIo13glCT8iS+A
+! 
 ! Version: 201803061151
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
@@ -13,5 +13,4 @@
 ! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
-
 coding.net##div.smart-app-banner.ios:nth-child(7)
