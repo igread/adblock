@@ -1,0 +1,1 @@
+coding.net##div.smart-app-banner.ios:nth-child(7)
