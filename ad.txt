@@ -6,4 +6,5 @@
 !-----------------------General advert blocking filters-----------------------!
 coding.net##div.smart-app-banner.ios:nth-child(7)
 boxer.baidu.com
+m.toutiao11.com###main > div.weixin-container > div.share-card-container-test2.share-card-container-true.sg_hide_element:last-child
 
