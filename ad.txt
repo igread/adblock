@@ -5,4 +5,4 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 coding.net##div.smart-app-banner.ios:nth-child(7)
-boxer.baidu.com
+
